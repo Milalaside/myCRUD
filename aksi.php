@@ -174,7 +174,7 @@ if ($module=='hapus'){
      mysqli_close($link);
 }
 
-
+include 'footer_module.php';
 ?>
 
 
