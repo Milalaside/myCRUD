@@ -64,6 +64,6 @@ echo"
     </section>";    
 
 
-
+include 'footer_module.php';
 ?>
 
